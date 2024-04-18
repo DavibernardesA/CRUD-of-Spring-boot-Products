@@ -53,14 +53,20 @@ Example request body:
 
 This route allows deleting an existing product based on the provided ID.
 
+## Configuration
+
+Before running the application, you need to configure the database and other properties. You can configure the database information in the `application.properties` file.
+
+Make sure you have Java and Maven installed on your machine to compile and run the application.
+
 ## How to Run
 
 1. Clone this repository:
 ```
-https://github.com/DavibernardesA/Secure-Authenticator-with-Spring-Boot-and-JWT
+https://github.com/DavibernardesA/CRUD-of-Spring-boot-Products
 ```
 
-2. Navigate to the project directory: cd Secure-Authenticator-with-Spring-Boot-and-JWT
+2. Navigate to the project directory: cd CRUD-of-Spring-boot-Products
 
 3. Compile the application using Maven: mvn clean install
 

@@ -73,3 +73,15 @@ https://github.com/DavibernardesA/CRUD-of-Spring-boot-Products
 4. Run the application: java -jar target/Secure-Authenticator-with-Spring-Boot-and-JWT
 
 5. The application will be available at `http://localhost:8080`.
+
+ ## Author✍️
+
+<a href=https://github.com/DavibernardesA>
+<img src="https://github.com/DavibernardesA/sistema-bancario-backend/assets/133716733/6ba09c22-9eae-4601-980c-81533bd7b4f9" width="100px;" alt=""/>
+<br>
+<b>Davi Bernardes</b></a>
+<br/>
+Contact:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-bernardes-do-nascimento-7b62a4274/)](https://www.linkedin.com/in/davi-bernardes-do-nascimento-7b62a4274/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi.10bernardes@gmail.com)](mailto:davi.10bernardes@gmail.com)

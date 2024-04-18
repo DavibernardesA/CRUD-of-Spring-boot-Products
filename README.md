@@ -52,3 +52,18 @@ Example request body:
 **DELETE /products/{id}**
 
 This route allows deleting an existing product based on the provided ID.
+
+## How to Run
+
+1. Clone this repository:
+```
+https://github.com/DavibernardesA/Secure-Authenticator-with-Spring-Boot-and-JWT
+```
+
+2. Navigate to the project directory: cd Secure-Authenticator-with-Spring-Boot-and-JWT
+
+3. Compile the application using Maven: mvn clean install
+
+4. Run the application: java -jar target/Secure-Authenticator-with-Spring-Boot-and-JWT
+
+5. The application will be available at `http://localhost:8080`.
